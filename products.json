@@ -1,0 +1,23 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Barbecue Salad",
+            "price": 250,
+            "image": "./assets/img/plate1.png"
+        },
+        {
+            "id": 2,
+            "title": "Salad with fish",
+            "price": 300,
+            "image": "./assets/img/plate2.png"
+        },
+        {
+            "id": 3,
+            "title": "Spinach Salad",
+            "price": 280,
+            "image": "./assets/img/plate3.png"
+        }
+        
+    ]
+}
