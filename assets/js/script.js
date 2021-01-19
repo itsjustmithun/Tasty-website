@@ -9,7 +9,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "mith" && password === "pass123") {
 //        alert("You have successfully logged in.");
-        location.href = "index.html"
+        location.href = "main.html"
        // location.reload();
     } else {
         loginErrorMsg.style.opacity = 1;
